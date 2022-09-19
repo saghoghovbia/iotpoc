@@ -1,5 +1,7 @@
 import socket
 
+#this code connects the raspberry pi to this server allowing signals to be passed
+
 s = socket.socket()
 print ('Socket successfully created')
 
